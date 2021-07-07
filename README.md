@@ -1,6 +1,7 @@
 # Flask-Task-manager
 
 Just download or clone this and run python app.py.
+You can add, update 0r delete the task as required.
 
 Images :
 
